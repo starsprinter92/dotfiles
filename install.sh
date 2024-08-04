@@ -20,4 +20,4 @@ echo "==> Installing dotfiles..."
 mv ~/.config ~/.config.old
 cp -r config/* ~/.config
 csrutil status
-echo "==> Disable SIP to get more animations: https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection"
+echo "==> Disable SIP to get animations: https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection"
