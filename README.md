@@ -1,1 +1,6 @@
 # dotfiles
+
+my macOS config
+
+
+
