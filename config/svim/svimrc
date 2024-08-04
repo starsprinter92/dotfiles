@@ -1,0 +1,5 @@
+noremap j h
+noremap k j
+noremap l k
+noremap ö l
+noremap ß $
